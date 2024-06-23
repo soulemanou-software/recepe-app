@@ -153,20 +153,15 @@ To run the project, execute the following command:
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Authors <a name="soulemanou kunchiefuh"></a>
 
 > Mention all of the collaborators of this project.
 
 👤 **Author1**
 
-- GitHub: [omarbabou](https://github.com/omarbabou)
-- LinkedIn: [Idrissa makoba omar](https://www.linkedin.com/in/idrissa-makoba-omar/)
-- twitter: [BabouOmar3](https://twitter.com/BabouOmar3)
-
-👤 **Author2**
-
-- GitHub: [benardop](https://github.com/benardop)
-- LinkedIn: [Benard Pacho](https://www.linkedin.com/in/benardpacho/)
+- GitHub: [soulemanou kunchiefuh babanou](https://github.com/soulemanou-software)
+- LinkedIn: [soulemanou kunchiefuh](https://www.linkedin.com/in/soulemanou-kunchiefuh-babanou/)
+- twitter: [soulemanou](https://twitter.com/babanou)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
